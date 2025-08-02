@@ -1,0 +1,13 @@
+###  Sensor Roles
+
+- **Moisture Sensor (YL-69):**  
+  Detects presence of water outside the inner wall of the pipeline — early leakage marker.
+
+- **Flow Sensor (YF-S201):**  
+  Tracks abnormal drop in flow rate indicating internal leakage or cracks.
+
+- **Ultrasonic Sensor (HC-SR04):**  
+  Helps the rover avoid collisions and map the internal diameter for leak-spotting.
+
+- **ESP32-CAM (Optional):**  
+  Visual confirmation for suspected leak zones or deep inspection.
