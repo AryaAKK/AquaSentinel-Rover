@@ -12,16 +12,8 @@ AquaSentinel is a mini pipe-navigating rover that moves through pipelines and de
 
 It sends real-time data using ESP8266, helping building owners take early action to conserve water.
 
-### ⚙ Components
-- ESP8266 NodeMCU
-- YL-69 Moisture Sensor
-- YF-S201 Water Flow Sensor
-- Ultrasonic Sensor (HC-SR04)
-- 3D printed or compact body
-- Li-ion battery
-- ESP32-CAM
 
-### 👩‍💻 Team Members & Roles
+### Team Members & Roles
 -Arya Krishna K – Team Lead, Assembly & Ideation
 -Saniya Mary Sabu – Sensor Integration
 -Vasudev Saras KM – Code & Control
